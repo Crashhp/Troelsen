@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyRockingApp", "MyRockingApp\MyRockingApp.csproj", "{41EE49F9-2FBE-4630-8070-A21001D5EA6A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001 MyRockingApp", "MyRockingApp\001 MyRockingApp.csproj", "{41EE49F9-2FBE-4630-8070-A21001D5EA6A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddWithThreads", "AddWithThreads\AddWithThreads.csproj", "{3AD3BB2B-33B8-4DB1-8156-6DFC90F11337}"
 EndProject
@@ -42,6 +42,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadStats", "ThreadStats\ThreadStats.csproj", "{851C88E3-31C7-4422-8257-F21F788BE463}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimerApp", "TimerApp\TimerApp.csproj", "{C8932303-4A60-4686-93C6-1A1517C05EBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002 SimpleCSharpApp", "SimpleCSharpApp\002 SimpleCSharpApp.csproj", "{D241111B-9D46-4F49-8643-551DDAD9D54B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +131,10 @@ Global
 		{C8932303-4A60-4686-93C6-1A1517C05EBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8932303-4A60-4686-93C6-1A1517C05EBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8932303-4A60-4686-93C6-1A1517C05EBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D241111B-9D46-4F49-8643-551DDAD9D54B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D241111B-9D46-4F49-8643-551DDAD9D54B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D241111B-9D46-4F49-8643-551DDAD9D54B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D241111B-9D46-4F49-8643-551DDAD9D54B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
